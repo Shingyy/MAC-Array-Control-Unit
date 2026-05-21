@@ -48,10 +48,3 @@ Behavioural simulation conducted for a 3-layer network with topology **(4 : 2 : 
 | Target board | Basys3 FPGA |
 
 ---
-
-## Roadmap
-
-- [x] MAC Array Control Unit (FSM)
-- [ ] ReLU Activation Function block
-- [ ] Argmax block
-- [ ] FIFO for input features from host computer
