@@ -33,12 +33,6 @@ Clears the accumulators of all MAC units. Transitions to `IDLE` if the current l
 
 ---
 
-## State Diagram
-
-![FSM State Diagram](state_diagram.jpeg)
-
----
-
 ## Simulation & Verification
 
 Behavioural simulation conducted for a 3-layer network with topology **(4 : 2 : 1)** neurons. Observed results matched expected results.
